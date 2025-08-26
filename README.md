@@ -9,6 +9,4 @@
 
 [3、放下你的杯啤](https://github.com/lionel-ate/My-essays/blob/master/beer.md)
 
-[4、最美的夏天](https://github.com/lionel-ate/My-essays/blob/master/the%20beautiful%20summer.md)
-
 [5、我喜欢《奇葩说》](https://github.com/lionel-ate/My-essays/blob/master/I%20like%20the%20qipa%20talkshow.md)
